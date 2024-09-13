@@ -1,0 +1,6 @@
+Terrain Waves:
+https://github.com/markjay4k/Audio-Spectrum-Analyzer-in-Python/tree/master
+https://www.youtube.com/watch?v=a1kxPd8Mdhw&list=PLX-LrBk6h3wQVsrldsQdtKmeTygurKiuS&index=5&ab_channel=MarkJay
+
+Circle:
+https://medium.com/analytics-vidhya/how-to-create-a-music-visualizer-7fad401f5a69
